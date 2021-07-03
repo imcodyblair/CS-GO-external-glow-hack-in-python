@@ -1,1 +1,1 @@
-# CS-GO-external-glow-hack-in-python
+# CS-GO-external-no-flash-hack-in-python
