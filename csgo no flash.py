@@ -1,4 +1,4 @@
-     # CS:GO no flash cheat using the python pymem library
+# CS:GO no flash cheat using the python pymem library
 import pymem
 import pymem.process
 import time               
