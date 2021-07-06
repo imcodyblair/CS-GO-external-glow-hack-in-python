@@ -8,7 +8,7 @@ dwLocalPlayer = (0xD892CC)
 m_flFlashMaxAlpha = (0xA41C) 
 
 
-def main():
+def Flash():
     print(" CS:GO Coneccted...")
     pm = pymem.Pymem("csgo.exe")
     client = pymem.process.module_from_name(pm.process_handle, "client.dll").lpBaseOfDll
@@ -23,4 +23,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    Flash()
